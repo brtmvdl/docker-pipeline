@@ -9,5 +9,5 @@ services:
       - '8080:80'
 
   docker-push:
-    image: 'tmvdl/projects:pipeline'
+    image: 'tmvdl/pipeline'
     build: './src/app'
