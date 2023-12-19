@@ -14,7 +14,7 @@
     "eslint-plugin-promise": "^6.1.1"
   },
   "dependencies": {
-    "@brtmvdl/backend": "^1.0.10",
+    "@brtmvdl/backend": "^1.0.11",
     "@brtmvdl/logger": "^0.2.4"
   }
 }
